@@ -19,4 +19,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/valorant-website.git](https://k4t3a.github.io/Valorant-
+   git clone https://k4t3a.github.io/Valorant-
